@@ -42,6 +42,7 @@
                         <button type="submit" class="btn btn-success w-100">Register</button>
                     </form>
                     <p class="text-center mt-3 small">Registered Aready? <a href="#">Login</a></p>
+                    <p class="text-center">Kredo 2023</p>
                 </div>
             </div>
         </div>
